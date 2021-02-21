@@ -117,7 +117,16 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/GoldenNuggetFinanceAnn"
+    items: [
+      {
+        label: "English",
+        href: "https://t.me/GoldenNuggetFinanceAnn",
+      },
+      {
+        label: "Announcements",
+        href: "https://t.me/GoldenNuggetFinanceAnn",
+      }
+    ],
   },
   {
     label: "Twitter",
