@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://nuggetdefi.medium.com/",
+        href: "https://goldnuggetdefi.medium.com/",
       },
     ],
   },
